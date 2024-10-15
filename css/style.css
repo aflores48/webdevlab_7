@@ -3,3 +3,10 @@ td, th {
   }
   
 body { background-image: url("../images/background.jpg"); }
+
+h1 {
+  color: white;
+  margin-left: 20px;
+}
+
+
