@@ -1,12 +1,20 @@
-td, th {
+td {
 	border: 1px solid;
   }
   
 body { background-image: url("../images/background.jpg"); }
 
-h1,h2,h3 {
+h1, h2, h3 {
   color: white;
   margin-left: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
 }
 
 
