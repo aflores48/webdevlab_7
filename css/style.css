@@ -16,9 +16,11 @@ table {
 
 th {
   height: 20px;
+  color: white;
 }
 
-tr:hover {background-color: navy;}
+tr:hover 
+{background-color: navy;}
 
 
 
