@@ -4,7 +4,7 @@ td, th {
   
 body { background-image: url("../images/background.jpg"); }
 
-h1 {
+h1,h2,h3 {
   color: white;
   margin-left: 20px;
 }
