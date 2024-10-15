@@ -1,5 +1,6 @@
 td {
 	border: 1px solid;
+	color: white;
   }
   
 body { background-image: url("../images/background.jpg"); }
@@ -10,11 +11,14 @@ h1, h2, h3 {
 }
 
 table {
-  width: 100%;
+  width: 50%;
 }
 
 th {
-  height: 70px;
+  height: 20px;
 }
+
+tr:hover {background-color: navy;}
+
 
 
