@@ -1,4 +1,26 @@
-td, th {
+td {
 	border: 1px solid;
+	color: white;
   }
   
+body { background-image: url("../images/background.jpg"); }
+
+h1, h2, h3 {
+  color: white;
+  margin-left: 20px;
+}
+
+table {
+  width: 50%;
+}
+
+th {
+  height: 20px;
+  color: white;
+}
+
+tr:hover 
+{background-color: navy;}
+
+
+
